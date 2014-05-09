@@ -1,0 +1,15 @@
+{
+  "name": "group-socket-test",
+  "description": "This serves mainly with the Gruntfile to establish a test system for group-socket",
+  "author": "Varokas Panusuwan",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "karma": "^0.12.14",
+    "grunt-karma": "^0.8.3",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "grunt-external-daemon": "^1.1.0",
+    "grunt-shell": "^0.7.0"
+  }
+}
